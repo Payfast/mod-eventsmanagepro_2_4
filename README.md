@@ -1,6 +1,6 @@
 # mod-eventsmanagepro_2_4
 
-PayFast Events Manager Pro v2 Module v1.0.0 for Events Manager Pro v2.4.*
+PayFast Events Manager Pro v2 Module v1.0.2 for Events Manager Pro v2.4.*
 
 INTEGRATION INSTRUCTIONS:
 
